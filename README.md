@@ -13,13 +13,6 @@ SME-SYSTEM là hệ thống mạng xã hội doanh nghiệp với các chức n�
 
 ## 🏗️ Kiến trúc
 
-```
-API Gateway
-    ↓
-Auth → User → Post → Feed
-         ↓
-    Notification ← React ← Relationship ← Liveness
-```
 
 ## 🛠️ Các Service
 
