@@ -25,3 +25,6 @@
 [submodule "api-gateway"]
 	path = api-gateway
 	url = git@github.com:huynhsown/SME-API-GATEWAY-2.git
+[submodule "admin-service"]
+	path = admin-service
+	url = git@github.com:huynhsown/ADMIN-SERVICE.git
