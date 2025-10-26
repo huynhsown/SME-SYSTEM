@@ -1,0 +1,27 @@
+[submodule "relationship-service"]
+	path = relationship-service
+	url = git@github.com:huynhsown/SME-RELATIONSHIP-SERVICE.git
+[submodule "user-service"]
+	path = user-service
+	url = git@github.com:huynhsown/SME-USER-SERVICE.git
+[submodule "post-service"]
+	path = post-service
+	url = git@github.com:huynhsown/SME-POST-SERVICE.git
+[submodule "react-service"]
+	path = react-service
+	url = git@github.com:huynhsown/SME-REACT-SERVICE.git
+[submodule "notification-service"]
+	path = notification-service
+	url = git@github.com:huynhsown/SME-NOTIFICATION-SERVICE.git
+[submodule "feed-service"]
+	path = feed-service
+	url = git@github.com:huynhsown/SME-FEED-SERVICE.git
+[submodule "liveness-service"]
+	path = liveness-service
+	url = git@github.com:huynhsown/SME-LIVENESS-SERVICE.git
+[submodule "auth-service"]
+	path = auth-service
+	url = git@github.com:huynhsown/SME-AUTH-SERVICE.git
+[submodule "api-gateway"]
+	path = api-gateway
+	url = git@github.com:huynhsown/SME-API-GATEWAY-2.git
